@@ -1,0 +1,33 @@
+body 
+{
+    	display: table-cell;
+    	vertical-align: middle;
+}
+html, body 
+{
+   	height: 100%;
+}
+html 
+{
+    	display: table;
+    	margin: auto;
+}
+#main {
+	display:flex;
+
+}
+img {
+	width:150px;
+
+}
+.sounds {
+	width:150px;
+	height:100px;
+	margin:25px;
+	padding-top:45px;
+	font-size:20px;
+	text-align:center;
+	background:black;
+	color:white;
+	border-radius:5px;
+}
