@@ -1,4 +1,4 @@
-echo "Please enter URL of startup Site >"
+echo "Please enter URL of startup Site > "
 read URL
 echo "*** Creating Startup Scripts ***"
 cd /home/pi
